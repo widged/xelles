@@ -18,11 +18,15 @@ https://digitalsynopsis.com/design/best-font-combinations-typeface-pairings-guid
 
 ## Trucs donnés:
 
-Si vous voulez trouver une réponse rapidement, faites une recherche pour "cheat sheet"
+Si vous voulez trouver une réponse rapidement, faites une recherche pour "[technologie] cheat sheet"
 
 Par example: 
 - [HTML style sheet](https://htmlcheatsheet.com/)
 - [CSS style sheet](https://htmlcheatsheet.com/css/)
+
+Ou bien le terme specifique et MDN. Par example
+- [color value](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+- [letter space mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
 
 Pour apprendre par vous même:
 - Freecode camp offre des tutoriaux de haute qualité, faciles à suivre. Commencez avec [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
